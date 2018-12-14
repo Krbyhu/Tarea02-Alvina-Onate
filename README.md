@@ -1,4 +1,7 @@
-# Prueba
+# Integrantes
+
+Camilo Ignacio Alviña baos - camilo.alvina@alumnos.uv.cl, 
+Allan Sebastian Oñate Delgado - allan.onate@alumnos.uv.cl
 
 
 # Instalación
@@ -6,7 +9,7 @@
 
 Para clonar repositorio:
 ```
-git clone https://github.com/Krbyhu/Prueba.git
+git clone https://github.com/Krbyhu/Tarea02-Alvina-Onate.git
 ```
 
 ### Modificación parametros
