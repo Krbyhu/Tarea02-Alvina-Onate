@@ -1,0 +1,6 @@
+{
+	"ip":	"10.0.2.15",
+	"puerto":	54000,
+	"root_dir":	"/home/camilo/Prueba/WWW-data/",
+	"notFoundFile": "/home/camilo/Prueba/WWW-error/"
+}
